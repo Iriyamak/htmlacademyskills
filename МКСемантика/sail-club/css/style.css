@@ -1,0 +1,69 @@
+body {
+font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #163152;
+    background-color: #FDFDFF;
+  }
+  .site-navigation-item{
+    font-size: 14px;
+line-height: 18px;
+
+text-transform: uppercase;
+
+color: #163152;
+  }
+  .user-icon{
+    width: 36px;
+height: 36px;
+border: 1px solid #00C6BD;
+border-radius: 50%;
+  }
+  .hero h1{
+    font-style: italic;
+font-weight: 400;
+font-size: 44px;
+line-height: 60px;
+
+  }
+  .regates-date{
+    font-weight: 400;
+font-size: 14px;
+line-height: 18px;
+/* identical to box height, or 129% */
+
+text-transform: uppercase;
+  }
+  section h2{
+    font-weight: 700;
+font-size: 24px;
+line-height: 34px;
+  }
+  .contacts h3{
+    font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+  }
+  .contacts p{
+    line-height: 22px;
+  }
+  .social-list img{
+    width: 40px;
+height: 40px;
+border-radius: 50%;
+border: 1px solid #00C6BD;
+  }
+  .copyright, .confidence{
+    font-size: 10px;
+line-height: 12px;
+  }
+  footer h2{
+    font-size: 14px;
+line-height: 18px;
+  }
+  .company-navigation-item{
+    font-size: 14px;
+line-height: 16px;
+  }
